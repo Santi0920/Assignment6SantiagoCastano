@@ -11,6 +11,7 @@
 
     <div class="container d-flex justify-content-center align-items-center vh-100">
         <div class="card shadow-lg p-4" style="width: 400px;">
+            <h1 class="text-center mb-4">Santiago Castano Henao</h1>
             <h2 class="text-center mb-4">Enter Five Numbers</h2>
             <form action="process.php" method="get">
                 <div class="mb-3">
